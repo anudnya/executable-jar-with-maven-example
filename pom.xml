@@ -289,7 +289,7 @@
   </profiles>
   <distributionManagement>
   <repository>
-    <id>releases</id>
+    <id>my_repo</id>
     <url>http://18.212.23.117:8081/nexus/content/repositories/my_repo/</url>
   </repository>
     
